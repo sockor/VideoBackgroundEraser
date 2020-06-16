@@ -1,0 +1,15 @@
+﻿  FrameHistory.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  VideoBackgroundEraser.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\work\bastat\videobackgrounderaser\videobackgrounderaser\videobackgrounderaser.cpp(49): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  14 of 339 functions ( 4.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VideoBackgroundEraser.vcxproj -> D:\work\Bastat\VideoBackgroundEraser\x64\Release\VideoBackgroundEraser.exe
